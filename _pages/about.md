@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Financial Economist, Data Scientist, and Python Enthusiast.
 
-I am a Wallenberg Postdoctoral Fellow in the [link](https://www.hhs.se/en/research/departments/df/ "Department of Finance at Stockholm School of Economics") and at the [link](https://www.hhs.se/en/houseoffinance/ "Swedish House of Finance").
+I am a Wallenberg Postdoctoral Fellow in the [Department of Finance at Stockholm School of Economics](https://www.hhs.se/en/research/departments/df/ "Department of Finance at Stockholm School of Economics") and at the [link](https://www.hhs.se/en/houseoffinance/ "Swedish House of Finance").
 
 My research interests are Corporate Finance, Finance and Labor, Entrepreneurial Finance, Innovation, and Networks.
 
