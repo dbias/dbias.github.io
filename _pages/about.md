@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-#Current position
+# Current position
 I am a Wallenberg Postdoctoral Fellow in the Department of Finance at the Stockholm School of Economics and at the Swedish House of Finance.
 
-##Research interests
+## Research interests
 My research interests are Corporate Finance, Finance and Labor, Entrepreneurial Finance, Innovation, and Networks.
 
