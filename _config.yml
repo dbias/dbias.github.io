@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Daniel Bias"
 title_separator          : "-"
 name                     : &name "Daniel Bias"
 description              : &description "Financial Economist, Data Scientist, and Python Enthusiast"
