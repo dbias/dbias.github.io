@@ -84,11 +84,11 @@ author:
   avatar           : "profile_db.png"
   bio              : "Financial Economist, Data Scientist, and Python Enthusiast"
   location         : "Swedish House of Finance,<br/>&nbsp; &nbsp; &nbsp;Stockholm School of Economics"
-  employer         :
+  employer         : "test5"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "daniel.bias@hhs.se"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "test4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          : "test2"
@@ -98,7 +98,7 @@ author:
   foursquare       :
   github           : "dbias"
   google_plus      :
-  keybase          :
+  keybase          : "test3"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
