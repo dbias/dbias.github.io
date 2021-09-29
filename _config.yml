@@ -91,7 +91,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "test2"
   dribbble         :
   flickr           :
   facebook         :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "test"
 
 
 # Reading Files
