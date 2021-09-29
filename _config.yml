@@ -83,22 +83,22 @@ author:
   name             : "Daniel Bias"
   avatar           : "profile_db.png"
   bio              : "Financial Economist, Data Scientist, and Python Enthusiast"
-  location         : "Swedish House of Finance,<br/>&nbsp; &nbsp; &nbsp;Stockholm School of Economics"
-  employer         : "test5"
+  location         : "Stockholm School of Economics<br/>&nbsp; &nbsp; &nbsp;Swedish House of Finance"
+  employer         : "Drottninggatan 98<br/>&nbsp; &nbsp; &nbsp;11160 Stockholm, Sweden
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "daniel.bias@hhs.se"
-  researchgate     : "test4" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          : "test2"
+  codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
   github           : "dbias"
   google_plus      :
-  keybase          : "test3"
+  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "test"
+  wikipedia        :
 
 
 # Reading Files
