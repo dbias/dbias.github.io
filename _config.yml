@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Bias"
 title_separator          : "-"
 name                     : &name "Daniel Bias"
-description              : &description "inancial Economist, Data Scientist, and Python Enthusiast"
+description              : &description "Financial Economist, Data Scientist, and Python Enthusiast"
 url                      : https://dbias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dbias/dbias.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniel Bias"
   avatar           : "profile_db.png"
-  bio              : "Postdoctoral Fellow at the Swedish House of Finance"
+  bio              : "Financial Economist, Data Scientist, and Python Enthusiast \n Postdoctoral Fellow at the Swedish House of Finance"
   location         : "Stockholm"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
