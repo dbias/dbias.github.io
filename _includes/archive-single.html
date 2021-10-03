@@ -61,7 +61,8 @@
         </p>
         </blockquote>
         </details>
-    {% elsif post.collection == 'working_papers' %}
+      {% endif %}
+     {% elsif post.collection == 'working_papers' %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>
@@ -71,7 +72,7 @@
         </blockquote>
         </details>
       {% endif %}
-      
+    
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
