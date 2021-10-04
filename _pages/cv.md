@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my [CV](https://www.dropbox.com/s/gbdih6h008rc0bx/CV_Bias_Daniel.pdf?dl=0 "CV").
+Link to my [CV](https://www.dropbox.com/s/gbdih6h008rc0bx/CV_Bias_Daniel.pdf?dl=0 "CV").
