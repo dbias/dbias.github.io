@@ -19,4 +19,4 @@ I hold a Ph.D. in Finance from the [Technical University of Munich](https://www.
 
 Job market
 ======
-I am on the job market and will be available for interviews at the European Job Market for Economists 2021 and ASSA 2022 meetings.
+I am on the job market and will be available for interviews at the FMA Meeting 2021, the European Job Market for Economists 2021 and the ASSA 2022 meeting.
