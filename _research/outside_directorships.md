@@ -2,7 +2,7 @@
 title: "Do Outside Directorships Influence CEO Decision Making? Evidence from Labor Strikes"
 collection: research
 permalink: 
-excerpt: 'Using employee-level data from Germany, we show that wage differences among employees who perform similar tasks (horizontal wage inequality, HWI) and among employees who perform different tasks (vertical wage inequality, VWI) contribute equally to the overall wage inequality within firms. A wage model with employee and establishment fixed effects reveals that VWI is nearly exclusively explained by the remuneration for heterogeneous employee characteristics (e.g., ability or education). For HWI, employee characteristics explain about three-quarters, and suggestive evidence based on differences in human resource policies, firm profitability, and monitoring costs reveals that pay-for-performance schemes are a plausible explanation for the remaining quarter.'
+excerpt: 'CEO outside directorships are an important phenomenon; however, little is known about their influence on managerial decision making. We investigate how CEOs react after they observe, as a director of another firm, a labor strike that is plausibly exogenous to their firm. They increase cash holdings shortly afterwards, most likely due to an overreaction to the more salient strike risk. In the long run, CEOs adjust their labor negotiations. Consistent with observational learning, they offer higher wages during contract negotiations and manage to reduce strike risk. These results suggest that outside directorships can facilitate both behavioral biases and observational learning. '
 date: 2019-11-25
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2888378'
