@@ -6,8 +6,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Working papers"
-    url: /working_papers/
+  #- title: "Working papers"
+  #  url: /working_papers/
 
   #- title: "Talks"
   #  url: /talks/    
