@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Financial Economist, Data Scientist, and Python Enthusiast.
 
-I am a Wallenberg Postdoctoral Fellow in the [Department of Finance at Stockholm School of Economics](https://www.hhs.se/en/research/departments/df/ "Department of Finance at Stockholm School of Economics") and at the [Swedish House of Finance](https://www.hhs.se/en/houseoffinance/ "Swedish House of Finance"), where I am part of the Wallenberg research lab of Prof. Alexander Ljungqvist. The purpose of the Wallenberg research lab is to conduct economic research under the highest scientific standards with a focus on the economic impacts of the decreasing number of public firms.
+I am a Wallenberg Postdoctoral Fellow in the [Department of Finance at Stockholm School of Economics](https://www.hhs.se/en/research/departments/df/ "Department of Finance at Stockholm School of Economics") and at the [Swedish House of Finance](https://www.hhs.se/en/houseoffinance/ "Swedish House of Finance"), where I am part of the Wallenberg research lab of Prof. Alexander Ljungqvist. The Wallenberg research lab conducts research in finacial economics with a focus on the economic implications of the decreasing number of public firms. It is a research lab inspired by the natural sciences, with standardized procedures and the highest standards of transparency and research ethics.
 
 My research interests are Corporate Finance, Finance and Labor, Entrepreneurial Finance, Innovation, and Networks.
 
