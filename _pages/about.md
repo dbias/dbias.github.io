@@ -19,4 +19,4 @@ I hold a Ph.D. in Finance from the [Technical University of Munich](https://www.
 
 Job market
 ======
-I am on the job market and will be available for interviews at the the European Job Market for Economists 2021 and the ASSA 2022 meeting.
+I am on the job market and will be available for interviews at the the European Job Market for Economists 2021 and the ASSA 2022 meeting. The title of my JMP is ["Illiquid Equity, Labor Mobility, and Talent Allocation"](https://danielbias.de/research/ "Illiquid Equity, Labor Mobility, and Talent Allocation").
