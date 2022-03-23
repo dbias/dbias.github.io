@@ -16,7 +16,4 @@ My research interests are Entrepreneurial Finance and Labor & Finance.
 
 I hold a Ph.D. in Finance from the [Technical University of Munich](https://www.wi.tum.de/ "Technical University of Munich") (TUM) and have visited the [University of Hong Kong](https://www.fbe.hku.hk/ "University of Hong Kong") (HKU) and [Hong Kong University of Science and Technology](http://www.bm.ust.hk/fina/ "Hong Kong University of Science and Technology") (HKUST) during my Ph.D.
 
-
-Job market
-======
-I am on the job market and will be available for interviews at the the European Job Market for Economists 2021 and the ASSA 2022 meeting. The title of my JMP is ["Illiquid Equity, Labor Mobility, and Talent Allocation"](https://danielbias.de/research/ "Illiquid Equity, Labor Mobility, and Talent Allocation").
+I will be joining the Owen Graduate School of Management at Vanderbilt University as an assistant professor in Finance in the fall of 2022.
