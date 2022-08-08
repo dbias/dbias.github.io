@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Daniel Bias"
   avatar           : "profile_db_202205.jpg"
-  bio              : "Postdoctoral fellow"
-  location         : "Swedish House of Finance,<br/>&nbsp; &nbsp; &nbsp;Stockholm School of<br/>&nbsp; &nbsp; &nbsp;Economics"
-  employer         : "Drottninggatan 98<br/>&nbsp; &nbsp; &nbsp;11160 Stockholm<br/>&nbsp; &nbsp; &nbsp;Sweden"
+  bio              : "Assistant Professor"
+  location         : "Owen Graduate of <br/>&nbsp; &nbsp; &nbsp;Management,<br/>&nbsp; &nbsp; &nbsp; Vanderbilt University"
+  employer         : "401 21st Avenue South<br/>&nbsp; &nbsp; &nbsp;Nashville, 37203 TN<br/>&nbsp; &nbsp; &nbsp;USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "daniel.bias@hhs.se"
+  email            : "daniel.bias@vanderbilt.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
