@@ -1,10 +1,10 @@
 ---
-title: "Decomposing Within-Firm Wage Inequality"
+title: "Task Heterogeneity, Employee Characteristics, and Within-Firm Wage Inequality"
 collection: research
 permalink: 
-excerpt: 'Using matched employer-employee data from Germany, we show that wage differences among employees who perform similar tasks (horizontal wage inequality, HWI) and employees who perform different tasks (vertical wage inequality, VWI) contribute equally to the overall wage inequality within firms. While VWI can be almost exclusively explained by the remuneration for employee characteristics (e.g., ability or education), these employee heterogeneities explain only about three-quarters in HWI. The remaining unexplained quarter is positively correlated with the existence of profit sharing programs, written employee assessments, written employee targets, firm profitability, and monitoring costs measured by the task complexity of an occupation and the size of an establishment or firm. These findings suggests that pay-for-performance schemes are a plausible explanation for the quarter of HWI that is not related to employee characteristics.'
-date: 2021-08-26
+excerpt: 'How much of the within-firm wage inequality comes from wage differences among employees with similar characteristics who perform similar tasks? Using matched employer-employee data from Germany, we show that task heterogeneity accounts for half of the overall within-firm wage differences. For employees who perform similar tasks, differences in their characteristics (e.g., ability or education) explain three-quarters of their wage differences. Residual wage inequality (RWI) among employees with similar characteristics who perform similar tasks accounts for 12 percent of the overall wage differences. RWI increases with task complexity, establishment and firm size, profit sharing, and profitability, which points to pay-for-performance schemes as potential drivers of HWI. These results indicate that firms use RWI to incentivize employees and call for the separate disclosure of wage inequality related to task heterogeneity, employee characteristics, and RWI. '
+date: 2022-09-24
 venue: ''
-paperurl: 'https://www.dropbox.com/s/elayhndu1bqhrd5/202111_BiasLinLochnerSchmid_WI.pdf?dl=0'
+paperurl: 'https://www.dropbox.com/s/1v2q8caldzh0u9b/202209_BiasLinLochnerSchmid_WI.pdf?dl=0'
 citation: 'with C. Lin, B. Lochner, and T. Schmid'
 ---
