@@ -1,10 +1,10 @@
 ---
-title: "Task Heterogeneity, Employee Characteristics, and Within-Firm Wage Inequality"
+title: "Within-Firm Wage Inequality and Employee Incentives"
 collection: research
 permalink: 
-excerpt: 'How much of the within-firm wage inequality comes from wage differences among employees with similar characteristics who perform similar tasks? Using matched employer-employee data from Germany, we show that task heterogeneity accounts for half of the overall within-firm wage differences. For employees who perform similar tasks, differences in their characteristics (e.g., ability or education) explain three-quarters of their wage differences. Residual wage inequality (RWI) among employees with similar characteristics who perform similar tasks accounts for 12 percent of the overall wage differences. RWI increases with task complexity, establishment and firm size, profit sharing, and profitability, which points to pay-for-performance schemes as potential drivers of HWI. These results indicate that firms use RWI to incentivize employees and call for the separate disclosure of wage inequality related to task heterogeneity, employee characteristics, and RWI. '
+excerpt: 'Recent transparency policies call for the disclosure of wage differences among peer employees within firms to combat wage inequality. Using a large, matched employer-employee dataset for Germany, we analyze how this horizontal wage dispersion among employees with similar individual characteristics and tasks is related to incentive pay. To this end, we decompose the overall within-firm wage inequality into wage differences that can be explained by employee characteristics, task heterogeneity, and residual wage inequality (RWI). RWI captures monetary rewards for employees outperforming their peers and accounts for 12 percent of the overall wage differences within firms. RWI increases in proxies for incentive pay, such as task complexity, firm size, establishment size within firms, profit-sharing programs, and firm profitability. These findings suggest that when debating about horizontal pay inequality, it is crucial to take incentive pay into consideration as it plays a significant role for firms. '
 date: 2022-04-27
 venue: ''
-paperurl: 'https://www.dropbox.com/s/1v2q8caldzh0u9b/202209_BiasLinLochnerSchmid_WI.pdf?dl=0'
+paperurl: 'https://www.dropbox.com/s/5ri4shv9fna8ggx/202304_BiasLinLochnerSchmid_WI.pdf?dl=0'
 citation: 'with C. Lin, B. Lochner, and T. Schmid'
 ---
