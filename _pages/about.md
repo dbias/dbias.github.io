@@ -14,4 +14,6 @@ I am an Assistant Professor of Finance in the [Owen Graduate School of Managemen
 
 My research interests are Entrepreneurial Finance and Labor & Finance.
 
-[comment]: <> (I hold a Ph.D. in Finance from the [Technical University of Munich](https://www.wi.tum.de/ "Technical University of Munich") (TUM) and have visited the [University of Hong Kong](https://www.fbe.hku.hk/ "University of Hong Kong") (HKU) and [Hong Kong University of Science and Technology](http://www.bm.ust.hk/fina/ "Hong Kong University of Science and Technology") (HKUST) during my Ph.D.)
+<!---
+I hold a Ph.D. in Finance from the [Technical University of Munich](https://www.wi.tum.de/ "Technical University of Munich") (TUM) and have visited the [University of Hong Kong](https://www.fbe.hku.hk/ "University of Hong Kong") (HKU) and [Hong Kong University of Science and Technology](http://www.bm.ust.hk/fina/ "Hong Kong University of Science and Technology") (HKUST) during my Ph.D.
+-->
