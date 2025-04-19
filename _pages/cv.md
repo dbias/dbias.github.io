@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Link to my [CV](https://www.dropbox.com/s/69zxs9h4s4ioso7/CV_Bias_Daniel.pdf?dl=0 "CV").
+Link to my [CV](https://www.dropbox.com/scl/fi/peilu098436658e4tb44a/CV_Bias_Daniel.pdf?rlkey=ylpvtrhgszd57scfhqfejas2s&dl=0 "CV").
