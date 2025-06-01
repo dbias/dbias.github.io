@@ -22,7 +22,7 @@ author_profile: true
       <td>Do Startup Patent Acquisitions Affect Inventor Productivity?</td>
       <td>Joan Farre-Mensa<br>Zack Liu<br>Jordan Nickerson</td>
       <td>MFA 2023</td>
-      <td><a href="https://www.dropbox.com/scl/fi/kh7mjirw3wbbnxxotpr6l/Bias_Discussion_MFA_2023.pdf?rlkey=vueozurlzu7a9nqfu4lx2ac4b&dl=0">Download</a></td>
+      <td><a href="https://www.dropbox.com/scl/fi/kh7mjirw3wbbnxxotpr6l/Bias_Discussion_MFA_2023.pdf?rlkey=vueozurlzu7a9nqfu4lx2ac4b&dl=0"><img src="/assets/images/pdf-icon.png" alt="PDF Icon" style="width:20px;height:20px;"></a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -44,7 +44,7 @@ author_profile: true
       <td>Morten Bennedsen<br>Margarita Tsoutsoura<br>Daniel
 Wolfenzon</td>
       <td>Cavalcade 2024</td>
-      <td><a href="https://www.dropbox.com/scl/fi/ne4q2osh7bb2tsiodmyx1/Bias_Discussion_Columbia_PE_2024.pdf?rlkey=o8vmbit57mksa0r50wmsbdz15&dl=0">Download</a></td>
+      <td><a href="https://www.dropbox.com/scl/fi/mlwm81gusk78px72v4h7e/Bias_Discussion_Cavalcade_2024.pdf?rlkey=r5n8pc7895pdyfkupafdmyusr&dl=0">Download</a></td>
     </tr>	
     <tr>
       <td>5</td>
