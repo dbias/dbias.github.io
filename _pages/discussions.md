@@ -22,7 +22,7 @@ author_profile: true
       <td>Do Startup Patent Acquisitions Affect Inventor Productivity?</td>
       <td>Joan Farre-Mensa<br>Zack Liu<br>Jordan Nickerson</td>
       <td>MFA 2023</td>
-      <td><a href="https://www.dropbox.com/scl/fi/kh7mjirw3wbbnxxotpr6l/Bias_Discussion_MFA_2023.pdf?rlkey=vueozurlzu7a9nqfu4lx2ac4b&dl=0"><i class="ai ai-pdf"></i></a></td>
+      <td><a href="https://www.dropbox.com/scl/fi/kh7mjirw3wbbnxxotpr6l/Bias_Discussion_MFA_2023.pdf?rlkey=vueozurlzu7a9nqfu4lx2ac4b&dl=0"><i class="fa-solid fa-file-pdf"></i></a></td>
     </tr>
     <tr>
       <td>2</td>
