@@ -56,7 +56,7 @@ Wolfenzon</td>
     <tr>
       <td>6</td>
       <td>Small-Scale Mentoring, Large-Scale Innovation: Evidence from a Superstar Firm</td>
-      <td>Colleen V. Chien<br>Jillian Grennan<br>DJason Sandvik</td>
+      <td>Colleen V. Chien<br>Jillian Grennan<br>Jason Sandvik</td>
       <td>Cavalcade 2025</td>
       <td><a href="https://www.dropbox.com/scl/fi/8sz87czjhlgjzr57sc2y7/Bias_Discussion_Cavalcade_2025.pdf?rlkey=ygkwy1fe3nrqn9nbfx91ffnbc&dl=0"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>	
