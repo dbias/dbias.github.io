@@ -19,10 +19,10 @@ author_profile: true
   <tbody>
     <tr>
       <td>1</td>
-      <td>"Paper 1"</td>
-      <td>Author A<br>Author B</td>
-      <td>Conference XYZ</td>
-      <td><a href="http://example.com/slides1">Download Slides</a></td>
+      <td>Do Startup Patent Acquisitions Affect Inventor Productivity?</td>
+      <td>Joan Farre-Mensa<br>Zack Liu<br>Jordan Nickerson</td>
+      <td>MFA 2023</td>
+      <td><a href="https://www.dropbox.com/scl/fi/kh7mjirw3wbbnxxotpr6l/Bias_Discussion_MFA_2023.pdf?rlkey=vueozurlzu7a9nqfu4lx2ac4b&dl=0">Slides</a></td>
     </tr>
     <tr>
       <td>2</td>
