@@ -6,8 +6,26 @@ author_profile: true
 ---
 
 
-| # | Title | Authors | Conference | Slides Link |
-|---|-------|---------|------------|-------------|
-| 1 | "Paper Title 1" | Author A, Author B | Conference XYZ | [Download Slides](http://example.com/slides1) |
-| 2 | "Paper Title 2" | Author C, Author D | Conference ABC | [Download Slides](http://example.com/slides2) |
-| 3 | "Paper Title 3" | Author E, Author F | Conference DEF | [Download Slides](http://example.com/slides3) |
+<table>
+  <tr>
+    <th>#</th>
+    <th style="width:30%;">Title</th>
+    <th style="width:30%;">Authors</th>
+    <th style="width:20%;">Conference</th>
+    <th style="width:20%;">Slides Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>"Paper 1"</td>
+    <td>Author A<br>Author B</td>
+    <td>Conference XYZ</td>
+    <td><a href="http://example.com/slides1">Download Slides</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>"Paper 2"</td>
+    <td>Author C<br>Author D</td>
+    <td>Conference ABC</td>
+    <td><a href="http://example.com/slides2">Download Slides</a></td>
+  </tr>
+</table>
