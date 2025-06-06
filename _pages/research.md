@@ -23,6 +23,8 @@ author_profile: true
       <td>Benjamin Lochner<br>Stefan Obernberger<br>Merih Sevilir</td>
       <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112225"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>
+  </tbody>
+</table>
 
 ## Selected Working Papers
 
@@ -49,3 +51,5 @@ author_profile: true
       <td>Solo-authored</td>
       <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960342"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>
+  </tbody>
+</table>
