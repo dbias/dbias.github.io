@@ -1,9 +1,31 @@
 ---
 layout: archive
-title: "Selected working papers"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+## Publications
+
+<table>
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th>#</th>
+      <th style="width:60%;">Title and Journal</th>
+      <th style="width:30%;">Co-authors</th>
+      <th style="width:10%;">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Going Public and the Internal Organization of the Firm<br><strong>Journal of Finance forthcoming</strong></td>
+      <td>Benjamin Lochner<br>Stefan Obernberger<br>Merih Sevilir</td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112225"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+    </tr>
+
+## Selected Working Papers
+
 
 <table>
   <thead>
@@ -15,12 +37,6 @@ author_profile: true
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>1</td>
-      <td>Going Public and the Internal Organization of the Firm<br>(conditionally accepted at the Journal of Finance)</td>
-      <td>Benjamin Lochner<br>Stefan Obernberger<br>Merih Sevilir</td>
-      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112225"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
-    </tr>
     <tr>
       <td>2</td>
       <td>Great Recession Babies: How Are Startups Shaped by Macro Conditions at Birth?</td>
