@@ -19,7 +19,7 @@ author_profile: true
   <tbody>
     <tr>
       <td>1</td>
-      <td>Going Public and the Internal Organization of the Firm<strong>Journal of Finance forthcoming</strong></td>
+      <td>Going Public and the Internal Organization of the Firm<br><strong>Journal of Finance forthcoming</strong></td>
       <td>Benjamin Lochner<br>Stefan Obernberger<br>Merih Sevilir</td>
       <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112225"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>
@@ -41,7 +41,7 @@ author_profile: true
   <tbody>
     <tr>
       <td>2</td>
-      <td>Great Recession Babies: How Are Startups Shaped by Macro Conditions at Birth?<br><strong>(Revise & Resubmit)</strong></td>
+      <td>Great Recession Babies: How Are Startups Shaped by Macro Conditions at Birth?<strong> (Revise & Resubmit)</strong></td>
       <td>Alexander Ljungqvist</td>
       <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><br><a href="https://www.wsj.com/business/entrepreneurship/recession-new-company-startups-41f27de7?st=ifuiik7iw7qpj0k&reflink=desktopwebshare_permalink"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i></a></td>
     </tr>
