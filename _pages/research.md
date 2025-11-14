@@ -43,7 +43,7 @@ author_profile: true
       <td>2</td>
       <td>Great Recession Babies: How Are Startups Shaped by Macro Conditions at Birth?<strong> (Revise & Resubmit)</strong></td>
       <td>Alexander Ljungqvist</td>
-      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><br><a href="https://www.wsj.com/business/entrepreneurship/recession-new-company-startups-41f27de7?st=ifuiik7iw7qpj0k&reflink=desktopwebshare_permalink"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i></a></td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a><br><a href="https://www.wsj.com/business/entrepreneurship/recession-new-company-startups-41f27de7?st=ifuiik7iw7qpj0k&reflink=desktopwebshare_permalink"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i></a><br><a href="https://www.economist.com/finance-and-economics/2025/11/10/recessions-have-become-ultra-rare-that-is-storing-up-trouble?giftId=MzAxNmMxMDEtYTQwOC00ODliLTljZTEtY2QzOWQyZThkZTc5&utm_campaign=gifted_article"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i></a></td>
     </tr>
     <tr>
       <td>3</td>
