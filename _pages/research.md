@@ -19,9 +19,9 @@ author_profile: true
   <tbody>
     <tr>
       <td>1</td>
-      <td>Going Public and the Internal Organization of the Firm<br><strong>Journal of Finance forthcoming</strong></td>
+      <td>Going Public and the Internal Organization of the Firm<br><strong>Journal of Finance</strong></td>
       <td>Benjamin Lochner<br>Stefan Obernberger<br>Merih Sevilir</td>
-      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4112225"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+      <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/jofi.70012"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>
   </tbody>
 </table>
