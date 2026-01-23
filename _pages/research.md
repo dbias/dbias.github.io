@@ -51,5 +51,11 @@ author_profile: true
       <td>Solo-authored</td>
       <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960342"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>Quietly Ahead: The Diverging R\&D Productivity of Public and Private Firms</td>
+      <td>Alexander Ljungqvist</td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6122066"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+    </tr>
   </tbody>
 </table>
