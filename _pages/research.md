@@ -12,8 +12,8 @@ author_profile: true
     <tr style="border-bottom: 2px solid #000;">
       <th>#</th>
       <th style="width:60%;">Title and Journal</th>
-      <th style="width:30%;">Co-authors</th>
-      <th style="width:10%;">Links</th>
+      <th style="width:20%;">Co-authors</th>
+      <th style="width:20%;">Links</th>
     </tr>
   </thead>
   <tbody>
@@ -34,8 +34,8 @@ author_profile: true
     <tr style="border-bottom: 2px solid #000;">
       <th>#</th>
       <th style="width:60%;">Title</th>
-      <th style="width:30%;">Co-authors</th>
-      <th style="width:10%;">Links</th>
+      <th style="width:20%;">Co-authors</th>
+      <th style="width:20%;">Links</th>
     </tr>
   </thead>
   <tbody>
