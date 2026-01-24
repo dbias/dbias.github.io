@@ -21,7 +21,7 @@ author_profile: true
       <td>1</td>
       <td>Going Public and the Internal Organization of the Firm<br><strong>Journal of Finance</strong></td>
       <td>Benjamin Lochner<br>Stefan Obernberger<br>Merih Sevilir</td>
-      <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/jofi.70012"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+      <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/jofi.70012"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>Journal</a></td>
     </tr>
   </tbody>
 </table>
@@ -43,19 +43,19 @@ author_profile: true
       <td>2</td>
       <td>Great Recession Babies: How Are Startups Shaped by Macro Conditions at Birth?<strong> (Revise & Resubmit)</strong></td>
       <td>Alexander Ljungqvist</td>
-      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>PDF</a><br><a href="https://www.wsj.com/business/entrepreneurship/recession-new-company-startups-41f27de7?st=ifuiik7iw7qpj0k&reflink=desktopwebshare_permalink"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i></a><br><a href="https://www.economist.com/finance-and-economics/2025/11/10/recessions-have-become-ultra-rare-that-is-storing-up-trouble?giftId=MzAxNmMxMDEtYTQwOC00ODliLTljZTEtY2QzOWQyZThkZTc5&utm_campaign=gifted_article"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i></a></td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298934"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>SSRN</a><br><a href="https://marginalrevolution.com/marginalrevolution/2023/12/do-start-ups-formed-during-recessions-fare-better.html"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i>Marginal Revolution</a><br><a href="https://www.wsj.com/business/entrepreneurship/recession-new-company-startups-41f27de7?st=ifuiik7iw7qpj0k&reflink=desktopwebshare_permalink"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i>WSJ</a><br><a href="https://www.economist.com/finance-and-economics/2025/11/10/recessions-have-become-ultra-rare-that-is-storing-up-trouble?giftId=MzAxNmMxMDEtYTQwOC00ODliLTljZTEtY2QzOWQyZThkZTc5&utm_campaign=gifted_article"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i>Economist</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td>Illiquid Equity, Labor Mobility, and Talent Allocation</td>
       <td>Solo-authored</td>
-      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960342"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960342"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>SSRN</a></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Quietly Ahead: The Diverging R&amp;D Productivity of Public and Private Firms</td>
       <td>Alexander Ljungqvist</td>
-      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6122066"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6122066"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>SSRN</a></td>
     </tr>
   </tbody>
 </table>
