@@ -60,5 +60,12 @@ Wolfenzon</td>
       <td>Cavalcade 2025</td>
       <td><a href="https://www.dropbox.com/scl/fi/8sz87czjhlgjzr57sc2y7/Bias_Discussion_Cavalcade_2025.pdf?rlkey=ygkwy1fe3nrqn9nbfx91ffnbc&dl=0"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
     </tr>	
+    <tr>
+      <td>7</td>
+      <td>The "Great Reshuffling" and Entrepreneurship</td>
+      <td>Matthew Denes<br>Spyridon Lagaras<br>Margarita Tsoutsoura</td>
+      <td>MFA 2026</td>
+      <td><a href="https://www.dropbox.com/scl/fi/tqx08sax840e1hymm29rx/Bias_Discussion_MFA_2026.pdf?rlkey=ls1c1dghtyojk2e88jeb2sv90&dl=0"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>
+    </tr>	
   </tbody>
 </table>
