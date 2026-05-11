@@ -57,5 +57,11 @@ author_profile: true
       <td>Alexander Ljungqvist</td>
       <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6122066"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>SSRN</a></td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>Secondary Markets for VC-Backed Startup Equity</td>
+      <td>Johan Cassel<br>Berk Sensoy</td>
+      <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6749078"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>SSRN</a></td>
+    </tr>
   </tbody>
 </table>
